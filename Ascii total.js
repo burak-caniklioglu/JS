@@ -11,4 +11,4 @@ function uniTotal (string) {
   } return sum
   }
 
-  
+  //burak deneme
